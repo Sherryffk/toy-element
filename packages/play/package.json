@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.3"
+  },
+  "dependencies": {
+    "storybook": "^9.0.1"
   }
 }
